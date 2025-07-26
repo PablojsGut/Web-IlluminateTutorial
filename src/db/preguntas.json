@@ -1,0 +1,352 @@
+{
+  "preguntas": [
+    {
+      "id_html": "#login",
+      "num_pregunta": 1,
+      "titulo": "Como Iniciar Sesión",
+      "descripcion": "Instrucciones y detalles sobre cómo iniciar sesión en la plataforma.",
+      "icono": "login",
+      "id_listaPregunta": 1,
+      "video": "https://www.youtube.com/embed/RTCswzAN3bI?si=4pQYyvlL7ir6rrYs",
+      "url_video": "https://www.youtube.com/watch?v=RTCswzAN3bI", 
+      "pasos": [
+        {
+          "titulo": "Paso 1: ",
+          "subtitulo": "Accede al enlace oficial de Illuminate.",
+          "detalle": "Abre tu navegador y dirígete al siguiente enlace: <a class='icon-link icon-link-hover' href='https://illuminate.blackboard.com' target='_blank' rel='noopener'> https://illuminate.blackboard.com <i class='bi bi-box-arrow-up-right'></i></a>",
+          "img": "public/images/gif/q1/p1.gif"
+        },
+        {
+          "titulo": "Paso 2: ",
+          "subtitulo": "Selecciona el método de inicio de sesión.",
+          "detalle": "<ol><li>Aparecerá la opción para iniciar sesión.</li><li>Haz clic en <strong>'Iniciar con su cuenta institucional'</strong>.</li></ol>",
+          "img": "public/images/gif/q1/p2.gif"
+        },
+        {
+          "titulo": "Paso 3: ",
+          "subtitulo": "Encuentra tu institución.",
+          "detalle": "<ol><li>Una vez que ingreses al sitio, verás un recuadro que dice: <strong>'Find your school or workplace to sign in' <em>(Busca tu escuela o lugar de trabajo para iniciar sesión)</em></strong>.</li><li>Escribe <strong>Universidad Mayor</strong> en el cuadro de búsqueda y selecciónala de la lista que aparece.</li></ol>",
+          "img": "public/images/gif/q1/p3.gif"
+        }, 
+        {
+          "titulo": "Paso 4: ",
+          "subtitulo": "Ingresa tus credenciales institucionales.",
+          "detalle": "<ol><li>Introduce los datos de tu cuenta institucional de la Universidad Mayor:</li><ul><li><strong>Correo electrónico:</strong> xxxx@umayor.cl</li><li><strong>Contraseña:</strong> Tu clave asociada al correo institucional.</li></ul><li>Presiona el botón Iniciar sesión.</li></ol>",
+          "img": "public/images/gif/q1/p4.gif"
+        },
+        {
+          "titulo": "Paso 5: ",
+          "subtitulo": "Accede a la plataforma.",
+          "detalle": "<ol><li>Una vez autenticado, serás dirigido al panel principal de Illuminate.</li><li>En la barra lateral izquierda encontrarás el menú de navegación, incluyendo el acceso a los reportes (si tu cuenta tiene permisos para visualizarlos).</li></ol>",
+          "img": "public/images/gif/q1/p5.gif"
+        }
+      ]
+    },
+    {
+      "id_html": "#home",
+      "num_pregunta": 2,
+      "titulo": "Página de Inicio",
+      "descripcion": "Descripción de los elementos que se visualizan en la página de inicio de Illuminate.",
+      "icono": "home",
+      "id_listaPregunta": 1,
+      "video": "https://www.youtube.com/embed/HNNYxPbbm4U?si=z6i-YY2jLVyAQErw",
+      "url_video": "https://www.youtube.com/watch?v=HNNYxPbbm4U", 
+      "pasos": [
+        {
+          "titulo": "Página Principal",
+          "subtitulo": "",
+          "detalle": "Aquí se presentan las funciones principales, como los <strong>informes personalizados</strong> y las herramientas para <strong>desarrolladores</strong>, que permiten personalizar los datos e informes según las necesidades específicas.",
+          "img": "public/images/gif/q2/p1.gif"
+        },
+        {
+          "titulo": "Menú",
+          "subtitulo": "",
+          "detalle": "En la esquina superior izquierda encontrarás un <strong>menú</strong> que te permite acceder a las áreas principales de Informe y Desarrollador, así como otros enlaces útiles.\n<ul><li><strong>Accesos rápidos:</strong> Este menú te llevará rápidamente a las secciones de <strong>Informes Personalizados</strong> sobre <strong><em>enseñanza</em></strong> y <strong><em>liderazgo</em></strong>, y a la sección de <strong>Desarrollador</strong> para trabajar directamente con los datos.</li></ul>",
+          "img": "public/images/gif/q2/p2.gif"
+        },
+        {
+          "titulo": "Seleccionar Idioma",
+          "subtitulo": "",
+          "detalle": "En la parte superior de la página, puedes elegir entre varios idiomas para cambiar el idioma de la plataforma. También puedes encontrar versiones de inglés en diferentes variaciones regionales.",
+          "img": "public/images/gif/q2/p3.gif"
+        }, 
+        {
+          "titulo": "Novedades",
+          "subtitulo": "",
+          "detalle": "En esta sección se muestran los cambios recientes, junto con opciones para enviar tus comentarios sobre la plataforma.",
+          "img": "public/images/gif/q2/p4.gif"
+        },
+        {
+          "titulo": "Ayuda",
+          "subtitulo": "",
+          "detalle": "En la esquina inferior derecha de cada página encontrarás un icono de signo de interrogación. Al hacer clic, se abrirá una <a class='icon-link icon-link-hover' href='https://help.blackboard.com/es-es/Anthology_Illuminate' target='_blank' rel='noopener'>página de ayuda de Anthology<i class='bi bi-box-arrow-up-right'></i></a> en una nueva ventana.",
+          "img": "public/images/gif/q2/p5.gif"
+        },
+        {
+          "titulo": "Cerrar Sesión",
+          "subtitulo": "",
+          "detalle": "Es importante cerrar sesión después de terminar de trabajar con la plataforma, ya que <strong>Blackboard Data</strong> contiene información sensible. Encontrarás el botón de <strong>cerrar sesión</strong> en la parte superior derecha de cada página, así como en la parte inferior del menú principal.\n<ul><li><strong>Desconexión automática:</strong> Si no estás activo durante un período, serás desconectado automáticamente y se te pedirá que inicies sesión nuevamente.</li></ul>",
+          "img": "public/images/gif/q2/p6.gif"
+        }
+      ]
+    },
+    {
+      "id_html": "#custom_reports",
+      "num_pregunta": 3,
+      "titulo": "Informes - Personalizados",
+      "descripcion": "Informe de los informes personalizados que el usuario puede crear.",
+      "icono": "heap_snapshot_multiple",
+      "id_listaPregunta": 1,
+      "video": "https://www.youtube.com/embed/NFoZXTEfjSA",
+      "url_video": "https://www.youtube.com/watch?v=NFoZXTEfjSA",
+      "pasos": [
+        {
+          "titulo": "¿Qué puedes hacer con Informes Personalizados?",
+          "subtitulo": "",
+          "detalle": "<ul><li><strong>Conexión y Análisis:</strong> Accede a múltiples orígenes de datos internos y externos preconfigurados. Usa conjuntos de datos prediseñados o crea los tuyos para explorar información actualizada diariamente.</li><li><strong>Creación Intuitiva:</strong> Genera gráficos y reportes mediante herramientas de arrastrar y soltar, diseñadas para usuarios sin experiencia en programación.</li><li><strong>Personalización y Publicación:</strong> Adapta formatos, colores, y etiquetas para crear visualizaciones atractivas y claras. Publica y comparte reportes directamente con las partes interesadas.</li><li><strong>Automatización:</strong> Programa reportes y establece alertas para mantener a tu equipo informado automáticamente.</li></ul>",
+          "img": "public/images/gif/q3/p1.png"
+        },
+        {
+          "titulo": "Características Principales",
+          "subtitulo": "",
+          "detalle": "<ul><li><strong>Exploración y Visualización:</strong> Consulta datos organizados en jerarquías según roles y necesidades. Utiliza tablas y diagramas interactivos para entender relaciones entre entidades.</li><li><strong>Creación Dinámica:</strong> Se pueden combinar datos utilizando consultas SQL personalizadas o herramientas visuales. Genera gráficos que se adaptan automáticamente a los datos seleccionados.</li><li><strong>Gestión Centralizada:</strong> Se puedem publicar análisis como tableros en formato de solo lectura, organiza informes en carpetas compartidas y facilita la colaboración institucional.</li><li><strong>Compatibilidad con Snowflake:</strong> Se puede aprovechar un poderoso almacén de datos que garantiza rendimiento y actualización constante.</li></ul>",
+          "img": "public/images/gif/q3/p2.png"
+        },
+        {
+          "titulo": "Ventajas",
+          "subtitulo": "",
+          "detalle": "<ul><li><strong>Toma de Decisiones Informada:</strong> Facilita el acceso a insights clave respaldados por datos precisos y actualizados.</li><li><strong>Ahorro de Tiempo:</strong> Automatiza reportes recurrentes y permite la creación rápida de visualizaciones mediante una interfaz intuitiva.</li><li><strong>Colaboración Mejorada:</strong> Comparte tableros con equipos o departamentos para fomentar la transparencia y la alineación en objetivos comunes.</li></ul>",
+          "img": "public/images/gif/q3/p3.png"
+        }
+      ]
+    },
+    {
+      "id_html": "#learning_reports",
+      "num_pregunta": 4,
+      "titulo": "Aprendizaje",
+      "descripcion": "Detalle sobre los informes de aprendizaje y la participación de los estudiantes.",
+      "icono": "school",
+      "id_listaPregunta": 1,
+      "video": "https://www.youtube.com/embed/bBTz_9bVGig",
+      "url_video": "https://www.youtube.com/watch?v=bBTz_9bVGig", 
+      "pasos": [
+        {
+          "titulo": "Participación de los estudiantes",
+          "subtitulo": "",
+          "detalle": "Primero, con el informe de Participación se puede identificar cuántos estudiantes están activos, cuánto tiempo dedican al contenido y si entregan evaluaciones a tiempo. Se usan gráficos y comparaciones para detectar patrones de compromiso.",
+          "img": "public/images/gif/q4/p1.png"
+        },
+        {
+          "titulo": "Desempeño y calificaciones de los estudiantes",
+          "subtitulo": "",
+          "detalle": "El informe de Desempeño muestra cómo se distribuyen las calificaciones en un curso. Se puede establecer límites para identificar estudiantes en riesgo y comparar resultados entre cursos o nodos institucionales.",
+          "img": "public/images/gif/q4/p2.png"
+        },
+        {
+          "titulo": "Participación social y colaborativa",
+          "subtitulo": "",
+          "detalle": "En este informe, evalúa el uso de herramientas colaborativas como debates y wikis, y la asistencia a clases virtuales. Esto ayuda a medir la participación en actividades grupales clave para el aprendizaje.",
+          "img": "public/images/gif/q4/p3.png"
+        },
+        {
+          "titulo": "Resumen de estudiante",
+          "subtitulo": "",
+          "detalle": "Por último, el Resumen de Estudiante da una visión integral de la actividad de cada estudiante, incluyendo tiempo invertido y evaluaciones entregadas. Además, puede contactarlo directamente desde el informe.",
+          "img": "public/images/gif/q4/p4.png"
+        }
+      ]
+    },
+    {
+      "id_html": "#teaching_reports",
+      "num_pregunta": 5,
+      "titulo": "Enseñanza",
+      "descripcion": "Detalle sobre los informes de enseñanza y las prácticas pedagógicas de los profesores.",
+      "icono": "lightbulb_2",
+      "id_listaPregunta": 1,
+      "video": "https://www.youtube.com/embed/rorfZCQVh5Y?si=IeHhajKuasMdTdxj",
+      "url_video": "https://www.youtube.com/watch?v=rorfZCQVh5Y", 
+      "pasos": [
+        {
+          "titulo": "Prácticas Pedagógicas",
+          "subtitulo": "",
+          "detalle": "Este apartado analiza aspectos clave como la estructura del curso, el contenido y las interacciones entre instructores y estudiantes.<ul><li><strong>Datos y visualizaciones:</strong> Se presentan gráficos y tablas que reflejan las prácticas pedagógicas implementadas.</li><li><strong>Carga docente:</strong> Incluye métricas como la proporción de estudiantes activos por profesor activo en un curso, brindando una visión del nivel de interacción posible.</li><li><strong>Acceso al curso:</strong> Se muestra la frecuencia con la que los profesores acceden al curso y la actividad registrada en los mismos.</li><li><strong>Uso de herramientas de aprendizaje:</strong> Analiza la frecuencia de uso de herramientas como blogs, foros de debate, diarios y wikis.</li><li><strong>Participación en clases virtuales:</strong> Evalúa el tiempo que los instructores dedican a las sesiones colaborativas en aulas virtuales.</li></ul>",
+          "img": ""
+        },
+        {
+          "titulo": "Evaluación y Calificación",
+          "subtitulo": "",
+          "detalle": "Esta sección analiza cómo los instructores gestionan las entregas, calificaciones y tiempos de respuesta a los estudiantes:<ul><li><strong>Gestión de entregas:</strong> Control y seguimiento de las actividades y proyectos.</li><li><strong>Calificaciones:</strong> Evaluación y retroalimentación a los estudiantes, destacando si las calificaciones se entregan dentro del plazo esperado.</li><li><strong>Informes detallados:</strong> Datos, gráficos y tablas que muestran el rendimiento de los estudiantes y la eficacia de los procesos de evaluación.</li></ul>",
+          "img": ""
+        },
+        {
+          "titulo": "Resumen del Curso",
+          "subtitulo": "",
+          "detalle": "Proporciona una vista general del desempeño de un curso en particular, desde una perspectiva estadística y operativa:<ul><li><strong>Datos clave:</strong> Información sobre inscripciones, tiempo de calificación, grupos, y otros datos relevantes.</li><li><strong>Evaluación del curso:</strong> Análisis de la participación y rendimiento de los estudiantes, con métricas sobre el compromiso y la actividad en el curso.</li></ul>",
+          "img": ""
+        },
+        {
+          "titulo": "AI Design Assistant Adoption",
+          "subtitulo": "",
+          "detalle": "Evalúa el uso de herramientas de Inteligencia Artificial para diseñar y mejorar los cursos:<ul><li><strong>Herramientas de IA:</strong> Análisis del uso de asistentes de diseño con IA en la creación de elementos de curso.</li><li><strong>Impacto en el diseño:</strong> Datos sobre la proporción de cursos que utilizan IA y la cantidad de elementos creados con estas herramientas.</li><li><strong>Eficiencia y calidad:</strong> Tablas y gráficos que ayudan a entender cómo y cuán efectivamente se utilizan las herramientas de IA en la creación de cursos y elementos educativos.</li></ul>",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "id_html": "#leadership_reports",
+      "num_pregunta": 6,
+      "titulo": "Liderazgo",
+      "descripcion": "Informes de coordinación sobre el uso de herramientas de aprendizaje y la administración de cursos.",
+      "icono": "list_alt_check",
+      "id_listaPregunta": 1,
+      "video": "https://www.youtube.com/embed/A2zWOeNLphA",
+      "url_video": "https://www.youtube.com/watch?v=A2zWOeNLphA",
+      "pasos": [
+        {
+          "titulo": "Uso y actividad de las herramientas de aprendizaje",
+          "subtitulo": "",
+          "detalle": "Este informe evalúa la actividad del usuario y del curso. Muestra cuántos usuarios únicos acceden, cuánto tiempo invierten, y qué herramientas de aprendizaje utilizan. También identifica cuántos cursos activos están aprovechando estas herramientas.",
+          "img": ""
+        },
+        {
+          "titulo": "Actividad de sesiones de colaboración",
+          "subtitulo": "",
+          "detalle": "Aquí puedes medir la participación en Class Collaborate. Verás cuántas salas se activan, la duración de las sesiones, y métricas como asistencia, mensajes enviados, y uso de herramientas como la pizarra y los sondeos.",
+          "img": ""
+        },
+        {
+          "titulo": "Desempeño del estudiante",
+          "subtitulo": "",
+          "detalle": "Este informe identifica el desempeño de los estudiantes en los cursos a través de filtros establecidos.",
+          "img": ""
+        },
+        {
+          "titulo": "Adopción de la plataforma de aprendizaje",
+          "subtitulo": "",
+          "detalle": "Con este informe puedes analizar cuántos usuarios y cursos están activos, cómo acceden al LMS y qué roles participan. Además, incluye datos sobre el uso de herramientas como Class Collaborate, accesibilidad y originalidad, mostrando patrones de adopción en toda la institución.",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "id_html": "#developer_tools",
+      "num_pregunta": 7,
+      "titulo": "Desarrollador",
+      "descripcion": "Acceso a herramientas de desarrollo y consultas SQL en la plataforma Illuminate.",
+      "icono": "monitoring",
+      "id_listaPregunta": 1,
+      "video": "https://www.youtube.com/embed/_vYebJgkHkQ?si=GLcjj720M1b2ycYl",
+      "url_video": "https://www.youtube.com/watch?v=_vYebJgkHkQ", 
+      "pasos": [
+        {
+          "titulo": "Página Desarrollador",
+          "subtitulo": "",
+          "detalle": "El ítem <strong>Desarrollador</strong> dentro de Anthology Illuminate está diseñado para ofrecer acceso directo al modelo canónico de datos y facilitar análisis avanzados, personalización de informes, y conexión con herramientas externas de Business Intelligence (BI).",
+          "img": "https://illuminate.blackboard.com/images/DeveloperPage/heroIllustration.svg"
+        },
+        {
+          "titulo": "Snowflake",
+          "subtitulo": "",
+          "detalle": "El apartado sobre cómo <strong>acceder a los datos institucionales y utilizar Snowflake</strong> dentro de Anthology Illuminate explica el proceso para acceder, configurar y restringir el uso de Snowflake. Snowflake es una plataforma en la nube que permite realizar consultas y análisis avanzados sobre los datos institucionales almacenados en el modelo canónico de datos (CDM) de Anthology Illuminate.\n\n<strong>Acceso inicial a Snowflake:</strong><ul><li><strong>Configuración automática:</strong></li><ol><li>Al seleccionar la opción <strong>Iniciar Snowflake</strong> (botón Launch Snowflake), el sistema configurará automáticamente el acceso a Snowflake.</li><li>Este proceso puede tomar unos minutos. Una vez completado, se abrirá una nueva pestaña en el navegador donde se cargará Snowflake.</li><li>Si ocurre un error durante la configuración:<ol><li>Intenta nuevamente desde el paso 1.</li><li>Snowflake mostrará el mensaje: <strong><em>\"Your Snowflake access configuration failed.\"</em></strong> Esto puede solucionarse al reintentar más tarde.</li></ol></li></ol><li><strong>Iniciar sesión en Snowflake:</strong><ol><li>Una vez configurado, accede a Snowflake seleccionando <strong>Iniciar sesión con inicio de sesión único (SSO)</strong>.</li><li>El sistema redirigirá a la página de autenticación donde debes usar tus credenciales de inicio de sesión de Anthology Illuminate.</li><li>Selecciona la opción <strong>Iniciar sesión</strong> para completar el proceso.</li></ol></li></ul>",
+          "img": "public/images/gif/q7/p2.gif"
+        },
+        {
+          "titulo": "Diccionario de Datos",
+          "subtitulo": "",
+          "detalle": "El diccionario de datos de Anthology Illuminate es una herramienta esencial para los desarrolladores y analistas que trabajan con el modelo de datos canónico (CDM). Su objetivo principal es proporcionar una descripción clara y detallada de la estructura, el contenido, y las relaciones entre las entidades que componen este modelo.",
+          "img": "public/images/gif/q7/p3.gif"
+        }, 
+        {
+          "titulo": "Administrar Cuentas",
+          "subtitulo": "",
+          "detalle": "El apartado de <strong>\"Administre las cuentas de servicio de Snowflake\"</strong> dentro de Anthology Illuminate Developer permite gestionar las cuentas utilizadas para acceder a los datos a través de Snowflake.\n\n<strong>¿Qué se puede hacer en esta sección?</strong><ul><li><strong>Habilitar o deshabilitar cuentas de servicio:</strong> Activar cuentas que están deshabilitadas o suspender el acceso temporalmente.</li><li><strong>Cambiar contraseñas:</strong> Actualizar las credenciales asociadas a las cuentas de servicio.</li><li><strong>Revisar el estado de las cuentas:</strong> Verificar si las cuentas están activas, configuradas correctamente o si presentan errores.</li></ul>",
+          "img": "public/images/gif/q7/p4.gif"
+        },
+        {
+          "titulo": "Conocimientos Sobre SQL",
+          "subtitulo": "",
+          "detalle": "La sección <strong>\"Amplíe sus conocimientos sobre SQL y mucho más\"</strong> está enfocada en brindar una herramienta de aprendizaje interactiva llamada <strong>Blackboard Data Explorers</strong>, que tiene como objetivo capacitar a los usuarios en el uso de SQL y en la interpretación de los datos institucionales disponibles a través de Anthology Illuminate Developer.",
+          "img": "public/images/gif/q7/p5.gif"
+        },
+        {
+          "titulo": "¿Qué es Blackboard Data Explorers?",
+          "subtitulo": "",
+          "detalle": "Es un curso interactivo que ofrece formación sobre cómo utilizar el entorno de Anthology Illuminate y sus herramientas de análisis de datos, como Snowflake, para trabajar con datos institucionales. Este curso está diseñado para usuarios con diferentes niveles de experiencia en SQL, desde principiantes hasta desarrolladores experimentados.",
+          "img": "https://illuminate.blackboard.com/images/DeveloperPage/dataExplorersIllustration.svg"
+        }
+      ]
+    },
+    {
+      "id_html": "#data_dictionary",
+      "num_pregunta": 8,
+      "titulo": "Diccionario de Datos",
+      "descripcion": "Información sobre el diccionario de datos y su estructura.",
+      "icono": "book",
+      "id_listaPregunta": 1,
+      "video": "https://www.youtube.com/embed/wZCkPaZwDsg",
+      "url_video": "https://www.youtube.com/watch?v=wZCkPaZwDsg",
+      "pasos": [
+        {
+          "titulo": "Diccionario de Datos",
+          "subtitulo": "",
+          "detalle": "El Diccionario de Datos de Anthology Illuminate es una herramienta esencial para quienes desarrollan informes, ya que presenta definiciones claras de tablas y columnas, junto con su origen, uso y relaciones.",
+          "img": ""
+        },
+        {
+          "titulo": "¿Qué es el Diccionario de Datos?",
+          "subtitulo": "",
+          "detalle": "Este recurso documenta las tablas y columnas de la base de datos, proporcionando definiciones fáciles de entender, especificaciones técnicas y relaciones. Además, incluye información clave como:<ul><li>Si una columna permite valores nulos.</li><li>Si es una columna de identidad.</li><li>Su tipo de dato.</li><li>Todo esto ayuda a entender mejor la estructura de los datos.</li></ul>",
+          "img": ""
+        },
+        {
+          "titulo": "Uso de Snowflake como almacén de datos",
+          "subtitulo": "",
+          "detalle": "Anthology Illuminate utiliza Snowflake para almacenar datos. Puedes visitar su sitio web para aprender comandos SQL y explorar funciones avanzadas. Esto hace que trabajar con el Diccionario de Datos sea eficiente y flexible.",
+          "img": ""
+        },
+        {
+          "titulo": "Diagramas Entidad-Relación (ERD)",
+          "subtitulo": "",
+          "detalle": "Los diagramas ERD muestran las relaciones entre entidades de la base de datos. Son interactivos y ofrecen herramientas para explorar relaciones de tablas o columnas, buscar elementos específicos y ajustar la vista según tus necesidades. Se usa la notación de 'pata de gallo' para mostrar las conexiones.",
+          "img": ""
+        },
+        {
+          "titulo": "Localización",
+          "subtitulo": "",
+          "detalle": "Puede elegir entre varios idiomas en el selector, aunque algunos términos relacionados con columnas y tipos de datos permanecen en inglés. Esto se irá traduciendo progresivamente.",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "id_html": "#settings",
+      "num_pregunta": 9,
+      "titulo": "Ajustes",
+      "descripcion": "Opciones y configuraciones disponibles en la sección de ajustes.",
+      "icono": "settings",
+      "id_listaPregunta": 1,
+      "video": "https://www.youtube.com/embed/soAgxaAx1q4",
+      "url_video": "https://www.youtube.com/watch?v=soAgxaAx1q4",
+      "pasos": [
+        {
+          "titulo": "Gestión de Licencias",
+          "subtitulo": "",
+          "detalle": "Supervisa el uso de las licencias en tiempo real:<ul><li><strong>Licencias Utilizadas vs. Totales:</strong> Indica la cantidad de licencias activas durante el mes, distinguiendo entre Lectores y Autores.</li><li><strong>Actividad de Usuarios:</strong> Clasifica usuarios en activos (aquellos que accedieron a informes o herramientas) e inactivos (sin actividad registrada).</li><li><strong>Detalles por Usuario:</strong> Proporciona información granular sobre cada usuario, incluyendo nombre, rol, estado y fecha del último acceso.</li></ul>Esta función es especialmente útil para optimizar la asignación de recursos y licencias dentro de la institución.",
+          "img": ""
+        },
+        {
+          "titulo": "Configuración de la Cuenta de Snowflake",
+          "subtitulo": "",
+          "detalle": "Permite integrar la plataforma con Snowflake, un potente almacén de datos:<ul><li><strong>Estado de la Cuenta:</strong> Visualiza si la cuenta de servicio está habilitada o deshabilitada.</li><li><strong>Habilitación de Cuentas:</strong> Reactiva cuentas deshabilitadas cambiando la contraseña de la cuenta de servicio.</li><li><strong>Parámetros de Configuración:</strong> Incluye detalles técnicos como servidor, almacén y base de datos para establecer conexiones seguras y eficientes.</li></ul>Esta integración facilita el acceso a datos institucionales almacenados en Snowflake para informes y análisis avanzados.",
+          "img": ""
+        },
+        {
+          "titulo": "Configuración Global",
+          "subtitulo": "",
+          "detalle": "Controla configuraciones esenciales que afectan a toda la plataforma:<ul><li><strong>Tiempo de Espera de Sesión:</strong> Define el tiempo de inactividad permitido antes de desconectar automáticamente a un usuario. El valor predeterminado es de 15 minutos, pero puede ajustarse según las políticas de seguridad de la institución.</li><li><strong>Capacidades de IA Generativa:</strong> Permite activar o desactivar funciones de inteligencia artificial en base al consentimiento institucional, alineándose con el Marco de IA confiable de Anthology.</li><li><strong>Correo Electrónico Institucional:</strong> Administra la dirección de contacto principal para recibir notificaciones críticas, como interrupciones o actualizaciones importantes.</li></ul>",
+          "img": ""
+        }
+      ]
+    }
+  ]
+}
